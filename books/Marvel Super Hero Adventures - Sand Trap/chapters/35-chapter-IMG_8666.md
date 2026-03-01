@@ -10,10 +10,18 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a hand holding a book with a cartoon character.
+guard at their feet. The playground was cleared and not a moment too soon.
+
+A huge figure grew out of the sand. He loomed above Spider-Man and Squirrel Girl.
+
+"Playtime's over, kids."
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+警戒线般守在他们脚边。游乐场被清空了，而且真是一秒都不能再晚。
+
+一个巨大的身影从沙地里长了出来，居高临下地俯视着蜘蛛侠和松鼠妹。
+
+"游戏时间结束了，小鬼们。"
 
 </td>
 </tr>

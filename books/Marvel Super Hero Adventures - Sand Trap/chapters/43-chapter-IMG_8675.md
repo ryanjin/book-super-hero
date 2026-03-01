@@ -10,10 +10,18 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a book with a cartoon character on it.
+"Why, yes," he said.
+
+"Okay." Squirrel Girl smiled. "Incoming!"
+
+At Squirrel Girl's call, nearly a dozen squirrels climbed the monkey bars to meet her. Their cheeks were full. They were stuffed with acorns. They faced the Sandman and blew.
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+"对啊，没错，"他说。
+
+"好。"松鼠妹笑了，"接招吧！"
+
+随着松鼠妹一声招呼，将近一打松鼠顺着猴架爬了上来。它们脸颊鼓鼓的，全塞满了橡果。它们一齐朝着沙人猛吹出去。
 
 </td>
 </tr>

@@ -10,10 +10,18 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a spider book with a spider on it.
+"Woo-hoo!" Spider-Man yelled as he swung between skyscrapers. "The Sandman was last seen headed toward Central Park. I bet I can make it there in a New York minute!"
+
+Spider-Man raced into Manhattan. He knew he must catch the Sandman quickly if he wanted to make his tea time.
+
+There was no question that Peter wanted to help Aunt May. He wanted to get the milk, he could swing by the grocery store on his way home. He even wanted to go to the tea party, everyone
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+"呜呼！"蜘蛛侠在摩天大楼间荡行时大喊，"沙人最后一次出现，是朝着中央公园去了。我打赌我能在纽约人说的一分钟里赶到那儿！"
+
+蜘蛛侠飞快冲进曼哈顿。他知道，如果还想赶上喝茶时间，就必须尽快抓住沙人。
+
+彼得当然想帮梅姨。他想把牛奶买回来，回家路上顺便去一趟杂货店就行。他甚至也想去参加茶会，毕竟大家都
 
 </td>
 </tr>

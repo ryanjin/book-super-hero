@@ -10,10 +10,22 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a book with a cartoon character inside.
+"So soon?" said Spider-Man. "But Squirrel Girl was just getting to know you."
+
+The Sandman spun around. He glared at Spider-Man, who was standing just beyond the big slide.
+
+"I told you to stay put," the Sandman said. "Guess the only way to stop a spider is to squash it."
+
+The Sandman charged at Spider-Man.
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+"这么快就走？"蜘蛛侠说道，"可松鼠妹才刚刚开始了解你呢。"
+
+沙人猛地转过身，死死瞪着站在大滑梯另一头的蜘蛛侠。
+
+"我不是叫你老实待着吗，"沙人说，"看来要让蜘蛛停下，唯一的办法就是把它拍扁。"
+
+沙人朝蜘蛛侠猛冲过去。
 
 </td>
 </tr>

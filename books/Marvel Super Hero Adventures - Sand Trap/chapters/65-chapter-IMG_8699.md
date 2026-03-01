@@ -10,10 +10,18 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a book with a cartoon character hugging a woman.
+"But none of that matters, Aunt May," he said. "There's no excuse for missing the tea party. And there's no excuse for not bringing you the milk when I said I would. I'm sorry I ruined your day. I hope you can forgive me."
+
+Aunt May hugged her nephew.
+
+"Thank you, Peter," she said. "I accept your apology. I am proud of you for taking responsibility."
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+"但那些都不重要，梅姨，"他说，"错过茶会没有任何借口。答应了把牛奶带回来却没做到，也没有任何借口。对不起，是我把你这一天搞砸了。希望你能原谅我。"
+
+梅姨抱住了她的外甥。
+
+"谢谢你，彼得，"她说，"我接受你的道歉。我为你愿意承担责任而感到骄傲。"
 
 </td>
 </tr>

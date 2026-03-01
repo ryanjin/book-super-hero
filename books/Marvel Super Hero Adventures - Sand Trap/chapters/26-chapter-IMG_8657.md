@@ -10,10 +10,14 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a book with a picture of a squirrel and a squirrel.
+Then she saw something that made her smile. Suspended from a spiderweb, hanging upside down from a tree, was Spider-Man. He was talking with two police officers.
+
+"Tippy-Toe, gather some squirrel friends," Squirrel Girl said. "I've got a bug to catch."
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+这时，她看见了一样让自己露出笑容的东西。一个倒挂在树上、吊在蛛丝上的家伙正悬在那里，那正是蜘蛛侠。他正在和两位警官说话。
+
+"蒂比趾，去叫些松鼠朋友来，"松鼠妹说，"我这儿有只小虫子要抓。"
 
 </td>
 </tr>

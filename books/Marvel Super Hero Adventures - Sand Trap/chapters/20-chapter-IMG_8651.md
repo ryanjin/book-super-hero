@@ -10,10 +10,14 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a person holding a book with a picture of a man and a woman.
+Only one thing stood between him and his hideout. The sandbox was full of cheerful children and caring caregivers. He had to distract them. The Sandman shape-shifted his mouth into a bullhorn and shouted, "ICE CREAM!"
+
+The children cheered. Their parents applauded. Everyone ran from the sandbox in pursuit of the ice cream truck! And as they searched for the
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+只有一件事挡在他和藏身处之间。沙坑里挤满了兴高采烈的孩子和照看他们的大人。他必须先把他们引开。沙人把自己的嘴变形成一个扩音喇叭，大喊："冰淇淋！"
+
+孩子们欢呼起来，大人们也鼓起掌来。所有人都从沙坑里跑开，追着那辆并不存在的冰淇淋车去了！而当他们四处寻找那辆
 
 </td>
 </tr>

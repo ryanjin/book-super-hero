@@ -10,10 +10,26 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a hand holding a book with a picture of a man.
+Chapter 7
+
+Aunt May placed a small spoon on top of a neatly folded napkin. She centered a teacup in its saucer. She laid eight cookies on a fancy silver tray. Her tea party was nearly ready.
+
+All that was missing was the milk.
+
+"Oh, I do hope Peter will be back from the store soon," she said to herself. "Anna and her niece will be here any minute."
+
+Having nothing to do but wait, Aunt May decided to distract herself.
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+第 7 章
+
+梅姨把一把小勺放在折得整整齐齐的餐巾上，又把茶杯端正地摆进茶托中央，还在漂亮的银盘里放好了八块曲奇。她的茶会几乎已经准备妥当。
+
+唯一缺的就是牛奶。
+
+"唉，真希望彼得快点从商店回来，"她自言自语道，"安娜和她的外甥女随时都会到。"
+
+除了等待也没别的事可做，梅姨决定分散一下自己的注意力。
 
 </td>
 </tr>

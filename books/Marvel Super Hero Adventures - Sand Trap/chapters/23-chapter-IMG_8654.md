@@ -10,10 +10,18 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a person holding a book with a picture of a squirrel.
+that I counted how many acorns I could fit in my cheeks. Made me wonder what I was doing with my life. You know?"
+
+Tippy-Toe shrugged.
+
+"Forty-seven, by the way." Squirrel Girl leaped from the bench to a nearby tree. "But enough about me," she said. "Tell me about you. Where did you last see this Sandman?"
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+我甚至数过自己脸颊里最多能塞下多少颗橡果。害我都开始怀疑人生了。你说是不是？"
+
+蒂比趾耸了耸肩。
+
+"顺便说一下，是四十七颗。"松鼠妹从长椅上一跃跳到旁边的树上，"不过别聊我了，"她说，"说说你吧。你最后一次看到这个沙人，是在哪儿？"
 
 </td>
 </tr>

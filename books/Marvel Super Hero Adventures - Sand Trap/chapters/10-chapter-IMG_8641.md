@@ -10,10 +10,22 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a person holding up a book with a spider and spider.
+Peter Parker was Spider-Man! And sometimes being Spider-Man made being Peter tough.
+
+He looked at his frowning aunt.
+
+I will not be Spider-Man today, he thought. Today I am just Peter Parker. I will be the perfect host for Aunt May's tea party. I will cut the lawn. I will clean my room. I will not get distracted. And I will not disappear.
+
+Peter opened his mouth to say all this, except the part about being Spider-Man. But before he could speak,
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+彼得·帕克就是蜘蛛侠！而有时候，做蜘蛛侠会让做彼得这件事变得很难。
+
+他看着皱着眉头的梅姨。
+
+我今天绝对不当蜘蛛侠了，他心想。今天我只是彼得·帕克。我要当梅姨茶会里最完美的主人。我会去修草坪。我会打扫房间。我不会分心。我也不会突然消失。
+
+彼得张开嘴，正想把这些都说出来，当然不包括自己是蜘蛛侠那一部分。可他还没来得及开口，
 
 </td>
 </tr>

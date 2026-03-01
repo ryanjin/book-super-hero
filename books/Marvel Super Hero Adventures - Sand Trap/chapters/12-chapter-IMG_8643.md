@@ -10,10 +10,26 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a person holding a piece of paper with a poem.
+Chapter 2
+
+"I'll be back with the milk before you know it," Peter said. He stepped onto the sidewalk outside their house in Queens, New York.
+
+"Just to the store, Peter," Aunt May warned from the front door. "Please try not to be late for our guests."
+
+Peter gave his aunt a thumbs-up. He turned the corner and was gone.
+
+It was a bright spring afternoon. Perfect weather for going to the grocery store. Or . . . for sailing through the air on a spiderweb!
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+第 2 章
+
+"我马上就会把牛奶带回来，快得你都反应不过来。"彼得说着，走上了纽约皇后区家门外的人行道。
+
+"只许去商店，彼得，"梅姨在前门口提醒道，"尽量别让客人久等。"
+
+彼得冲姨妈竖起大拇指，拐过街角就不见了。
+
+那是个明亮的春日下午，天气好得很，正适合去杂货店。当然……也很适合踩着蛛丝在空中飞荡！
 
 </td>
 </tr>

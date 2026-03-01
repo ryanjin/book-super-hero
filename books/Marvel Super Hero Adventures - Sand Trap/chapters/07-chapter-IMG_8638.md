@@ -10,10 +10,26 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a person holding a piece of paper with a poem.
+Chapter 1
+
+Peter Parker did not hear his Aunt May talking. He had been pouring the last of the milk into his cereal bowl when the morning news caught his attention.
+
+". . . commotion at the City Bank on Ninety-sixth Street and Columbus Avenue. Police cars are at the scene."
+
+"Peter," Aunt May said again. She shook his shoulder. "Did you hear a word I just said?"
+
+"Sorry, Aunt May," Peter replied.
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+第 1 章
+
+彼得·帕克没有听见梅姨在说话。那时他正把最后一点牛奶倒进自己的麦片碗里，忽然早间新闻吸引了他的注意。
+
+"……第九十六街与哥伦布大道交界处的城市银行发生骚动。警车已经赶到现场。"
+
+"彼得，"梅姨又叫了一遍。她摇了摇他的肩膀，"我刚才说的话，你听见一个字了吗？"
+
+"对不起，梅姨。"彼得回答。
 
 </td>
 </tr>

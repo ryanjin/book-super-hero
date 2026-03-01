@@ -10,10 +10,26 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-spider spider trap by mackie crede.
+MARVEL SUPER HERO ADVENTURES
+Sand Trap!
+With Spider-Man,
+Squirrel Girl, and the Sandman
+
+By Mackenzie Cadenhead
+& Sean Ryan
+
+Illustrated by Dario Brizuela
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+MARVEL 超级英雄历险
+《Sand Trap!》
+与蜘蛛侠、
+松鼠妹，以及沙人同行
+
+作者：Mackenzie Cadenhead
+与 Sean Ryan
+
+插画：Dario Brizuela
 
 </td>
 </tr>

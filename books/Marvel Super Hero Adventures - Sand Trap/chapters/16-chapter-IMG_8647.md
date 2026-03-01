@@ -10,10 +10,18 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a person holding up a book with a picture of a car.
+Chapter 3
+
+"There is sand everywhere! In my shoes, my pockets, everywhere!" Officer Ditko said to his partner, Officer Stanley. Their police car raced down the street. They were in hot pursuit of the criminal who had just robbed a bank.
+
+"We're trying to catch the Sandman!" Officer Stanley yelled back. "What did you expect? A day at the beach?!"
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+第 3 章
+
+"沙子到处都是！鞋里有，口袋里有，到处都是！"迪特科警官对搭档斯坦利警官抱怨道。他们的警车飞驰在街上，正紧追着那个刚抢完银行的罪犯。
+
+"我们追的本来就是沙人！"斯坦利警官大声回道，"你还指望是什么？海边度假日吗？！"
 
 </td>
 </tr>

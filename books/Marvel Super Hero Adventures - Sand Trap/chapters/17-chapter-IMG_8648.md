@@ -10,10 +10,10 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a person holding a book with a cartoon character.
+As if in answer to her question, an enormous wave of sand crashed down in front of them. Ninety-sixth Street was a sand trap. Officer Stanley hit the gas, but the
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+像是在回答她的问题似的，一股巨大的沙浪轰然拍在他们面前。第九十六街已经成了一个沙坑陷阱。斯坦利警官猛踩油门，但是那辆
 
 </td>
 </tr>

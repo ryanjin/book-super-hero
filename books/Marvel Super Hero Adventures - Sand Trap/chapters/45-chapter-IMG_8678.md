@@ -10,10 +10,10 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a person holding a book with a picture of a man and a dog.
+stumbled backward. Spider-Man was waiting behind him. He held out a huge net made of spiderwebs to contain the crook.
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+踉跄着往后退去。蜘蛛侠早已在他身后等着，张开一张巨大的蛛网大网，要把这个坏蛋困住。
 
 </td>
 </tr>

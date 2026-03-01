@@ -10,10 +10,14 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a book with a cartoon character on it.
+"At least they have their priorities straight," Squirrel Girl said. "To thank you for your help in protecting my park, may I buy you a cone, Spider-Man? What kind of ice cream do you like? Vanilla? Chocolate? Coffee?"
+
+"Definitely not coffee," he replied. "I'm actually more of a tea man, myself."
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+"至少他们的优先顺序很明确，"松鼠妹说，"为了感谢你帮我一起守护公园，我能请你吃个甜筒吗，蜘蛛侠？你喜欢什么口味的冰淇淋？香草？巧克力？咖啡？"
+
+"咖啡肯定不行，"他回答，"其实我更喜欢喝茶。"
 
 </td>
 </tr>

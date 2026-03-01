@@ -10,10 +10,10 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a book with a picture of a man and a dog.
+"Ouch, ouch, ouch!" the Sandman cried. The squirrels pelted him with acorn after acorn. The attack was working. The Sandman
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+"哎哟，哎哟，哎哟！"沙人惨叫起来。松鼠们一颗接一颗地用橡果砸他。攻击奏效了。沙人
 
 </td>
 </tr>

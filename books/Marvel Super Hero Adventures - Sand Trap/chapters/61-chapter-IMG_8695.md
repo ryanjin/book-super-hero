@@ -10,10 +10,14 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-spider - man - spider - man - spider - man - spider - man - spider - man - spider - man - spider - man - spider - spider - spider - spider - spider - spider - spider - spider - spider.
+"Chitta chit," Tippy-Toe agreed.
+
+Spider-Man gave Central Park's protector and her squirrely sidekick a nod. Then he took to the skies.
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+"Chitta chit，"蒂比趾表示同意。
+
+蜘蛛侠朝中央公园的守护者和她那位松鼠小搭档点了点头，随后纵身跃向天空。
 
 </td>
 </tr>

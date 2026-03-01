@@ -10,10 +10,14 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a book with a cartoon character on it.
+Chapter 10
+
+"Thanks for the workout, web-head," the Sandman said. "But it's time my money and I got going." The Sandman reached his hand into the sandbox. He pulled out the bags of cash. He took a step toward the playground's exit.
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+第 10 章
+
+"谢了，这趟活动筋骨真不错，蛛网脑袋，"沙人说道，"不过现在我和我的钱该走了。"沙人把手伸进沙坑，拽出那几袋现金，朝游乐场出口迈出一步。
 
 </td>
 </tr>

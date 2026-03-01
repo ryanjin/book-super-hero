@@ -10,10 +10,18 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a book with a cartoon character inside.
+Spider-Man froze. Tea, he thought. He was late for Aunt May's tea party!
+
+"Squirrel Girl, I'm sorry to fight crime and fly, but I'm an hour past late for something really important," he explained. "Can I take a rain check on that celebration?"
+
+"Sure thing, bug-boy," Squirrel Girl said. "You're welcome in Central Park anytime. Right, Tippy-Toe?"
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+蜘蛛侠一下僵住了。茶，他心想。梅姨的茶会！他已经迟到了！
+
+"松鼠妹，真抱歉，虽然我一直在忙着打击犯罪、到处飞来飞去，但我已经比一件非常重要的事晚了整整一个多小时，"他解释道，"那场庆祝，我能不能先改天？"
+
+"当然可以，小虫男，"松鼠妹说，"中央公园随时欢迎你。对吧，蒂比趾？"
 
 </td>
 </tr>

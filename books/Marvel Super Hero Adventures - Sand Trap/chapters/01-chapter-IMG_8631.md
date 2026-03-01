@@ -10,10 +10,18 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-the cover of the book, marvel adventures, featuring a cartoon character and a cartoon character.
+An Early Chapter Book
+MARVEL
+SUPER HERO ADVENTURES
+Sand Trap!
+By Mackenzie Cadenhead & Sean Ryan
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+一本早期章节书
+MARVEL
+超级英雄历险
+《Sand Trap!》
+作者：Mackenzie Cadenhead 与 Sean Ryan
 
 </td>
 </tr>

@@ -10,10 +10,14 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a book with a cartoon character and a quote.
+he should hang up his webs and leave crime fighting to the Avengers, the words of his late Uncle Ben helped him make the right choice. "With great power comes great responsibility," Uncle Ben had told him.
+
+No matter what was happening in Peter Parker's world, Spider-Man would always answer a call for help!
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+自己是不是该收起蛛丝，把打击犯罪的事交给复仇者们时，已故本叔叔的话总会帮助他作出正确选择。"能力越大，责任越大，"本叔叔曾这样告诉他。
+
+无论彼得·帕克的生活里正发生什么事，蜘蛛侠总会回应求助的呼声！
 
 </td>
 </tr>

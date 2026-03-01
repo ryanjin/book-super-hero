@@ -10,10 +10,26 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a book with a picture of a man in a suit.
+swing backward. But the swing and Spidey never came.
+
+"I was thinking, what goes around comes around," Spider-Man said. He had shot his webs onto the frame of the swing set, and was squatting at the top. Now he pulled himself all the way around. He hit the Sandman from behind.
+
+"Oof!" The felon went flying onto the monkey bars.
+
+"No fair," the Sandman cried. "I wasn't expecting that."
+
+"So you want us to tell you when we're going to fight you?" Squirrel Girl asked. She was perched atop the monkey bars. The Sandman looked up at her.
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+往后荡回来。可是秋千和小蜘蛛都没有出现。
+
+"我刚才在想，风水轮流转，"蜘蛛侠说道。他早已把蛛丝射在秋千架上方的横梁上，自己正蹲在顶端。这时他整个人沿着架子绕了一整圈，从背后狠狠撞上了沙人。
+
+"哎哟！"那个罪犯一下飞到了猴架上。
+
+"这不公平，"沙人叫道，"我根本没料到。"
+
+"所以你是想让我们在动手前先通知你一声？"松鼠妹问。她正蹲在猴架顶上。沙人抬头看着她。
 
 </td>
 </tr>

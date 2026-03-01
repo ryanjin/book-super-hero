@@ -10,10 +10,22 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a cartoon book with a picture of a girl and a cat.
+Squirrel Girl said. She patted him kindly on the shoulder. "But I am Central Park's protector. And if there's one thing I know, it's how to clear a playground." She looked into the trees. "Ready, Tippy-Toe?"
+
+"Chitik!" a tiny voice replied.
+
+Squirrel Girl placed her fingers in her mouth on either side of her amazing front teeth. She whistled.
+
+Hundreds of squirrels ran into the playground. They descended from the trees. They scurried over rocks. They burst forth from bushes. Gray squirrels,
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+松鼠妹说道。她友善地拍了拍他的肩膀。"但我可是中央公园的守护者。要说我最拿手的一件事，那就是清空游乐场。"她朝树上望去，"准备好了吗，蒂比趾？"
+
+"Chitik！"一个细小的声音回应道。
+
+松鼠妹把手指放到嘴边，夹在她那对惊人门牙两侧，吹了一声口哨。
+
+几百只松鼠冲进了游乐场。它们从树上跳下，飞快穿过石块，从灌木丛里一股脑钻了出来。灰松鼠、
 
 </td>
 </tr>

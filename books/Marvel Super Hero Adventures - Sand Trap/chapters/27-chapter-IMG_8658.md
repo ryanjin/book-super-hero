@@ -10,10 +10,22 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a book with a cartoon character inside.
+Chapter 5
+
+Officer Ditko sneezed. Sand flew out of his nose, spraying the front of his uniform. "See? It's everywhere," the policeman whined.
+
+Spider-Man patted him on the back. "I totally under-sand," Spidey said.
+
+Officer Stanley shook her head. "More importantly, we cannot find the Sandman anywhere. Believe me, we've looked."
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+第 5 章
+
+迪特科警官打了个喷嚏。沙子从他鼻子里喷出来，洒了他制服前襟一身。"看见没？到处都是，"这位警察委屈地抱怨。
+
+蜘蛛侠拍了拍他的背。"我完全under-sand，"小蜘蛛说道。
+
+斯坦利警官摇了摇头。"更重要的是，我们哪儿都找不到沙人。相信我，我们已经翻遍了。"
 
 </td>
 </tr>

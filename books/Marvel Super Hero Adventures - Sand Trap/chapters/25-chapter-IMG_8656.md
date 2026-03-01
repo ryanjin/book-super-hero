@@ -10,10 +10,10 @@
 <td width="48%" valign="top">
 
 ## 英文原文朗读
-a person holding a book with a picture of a boy and a girl.
+Having found no ice cream, the children had returned to the playground where the Sandman was hiding. This complicated Squirrel Girl's job. She had to fight the Sandman. She had to find the stolen money. She had to keep the kids safe. It was a lot to do on her own. Her teeth began to chitter nervously.
 
 ## 中文演绎
-这一页里，气氛明显紧张起来。角色在对话与动作中透露出不安和压力，故事也从轻松转向更严肃的阶段。朗读时建议把关键词读重一点，让情绪转折更清楚。
+没找到冰淇淋后，孩子们又回到了沙人藏身的游乐场。这让松鼠妹的任务一下变复杂了。她得对付沙人。她得找到被偷的钱。她还得保证孩子们安全。光靠她一个人，要做的事实在太多了。她的牙齿开始紧张地咯咯打颤。
 
 </td>
 </tr>
