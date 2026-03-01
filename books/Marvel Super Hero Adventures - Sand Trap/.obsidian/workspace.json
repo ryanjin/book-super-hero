@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/08-chapter-IMG_8639.md",
+                "file": "chapters/13-chapter-IMG_8644.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-chapter-IMG_8639"
+              "title": "13-chapter-IMG_8644"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/08-chapter-IMG_8639.md",
+                "file": "chapters/13-chapter-IMG_8644.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "08-chapter-IMG_8639 的反向链接列表"
+              "title": "13-chapter-IMG_8644 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/08-chapter-IMG_8639.md",
+                "file": "chapters/13-chapter-IMG_8644.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "08-chapter-IMG_8639 的出链列表"
+              "title": "13-chapter-IMG_8644 的出链列表"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/08-chapter-IMG_8639.md",
+                "file": "chapters/13-chapter-IMG_8644.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08-chapter-IMG_8639 的大纲"
+              "title": "13-chapter-IMG_8644 的大纲"
             }
           }
         ]
@@ -198,22 +198,34 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1c65926ebdc72f81",
+  "active": "18e5b12150fcf21a",
   "lastOpenFiles": [
-    "chapters/08-IMG_8639.md",
-    "chapters/08-chapter-IMG_8639.md",
-    "chapters/07-IMG_8638.md",
+    "README-merged.md",
+    "book-chapters/chapter-12.md",
+    "book-chapters/chapter-11.md",
+    "book-chapters/chapter-10.md",
+    "book-chapters/chapter-09.md",
+    "book-chapters/chapter-08.md",
+    "book-chapters/chapter-07.md",
+    "book-chapters/chapter-06.md",
+    "book-chapters/chapter-05.md",
+    "book-chapters/chapter-04.md",
+    "book-chapters/chapter-03.md",
+    "book-chapters/chapter-02.md",
+    "book-chapters/chapter-01.md",
+    "book-chapters",
+    "chapters/12-chapter-IMG_8643.md",
     "chapters/07-chapter-IMG_8638.md",
     "chapters/06-chapter-IMG_8637.md",
-    "chapters/05-IMG_8635.md",
-    "chapters/04-IMG_8634.md",
+    "chapters/05-chapter-IMG_8635.md",
     "chapters/04-chapter-IMG_8634.md",
-    "chapters/03-IMG_8633.md",
-    "chapters/03-chapter-IMG_8633.md",
-    "chapters/02-IMG_8632.md",
     "chapters/02-chapter-IMG_8632.md",
-    "chapters/01-IMG_8631.md",
+    "chapters/03-chapter-IMG_8633.md",
+    "chapters/09-chapter-IMG_8640.md",
     "chapters/01-chapter-IMG_8631.md",
-    "README.md"
+    "chapters/65-chapter-IMG_8699.md",
+    "chapters/63-chapter-IMG_8697.md",
+    "chapters/60-chapter-IMG_8694.md",
+    "chapters/58-chapter-IMG_8692.md"
   ]
 }

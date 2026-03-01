@@ -69,3 +69,7 @@
 - [[chapters/63-chapter-IMG_8697|Chapter 63]]
 - [[chapters/64-chapter-IMG_8698|Chapter 64]]
 - [[chapters/65-chapter-IMG_8699|Chapter 65]]
+
+## 合并版阅读
+
+- [[README-merged|按书内 Chapter 合并版（推荐）]]
