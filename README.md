@@ -4,4 +4,4 @@ Super hero picture book collection.
 
 ## Books
 
-- [superhero-obsidian-vault-20260301](books/superhero-obsidian-vault-20260301/README.md)
+- [Marvel Super Hero Adventures - Sand Trap](books/Marvel%20Super%20Hero%20Adventures%20-%20Sand%20Trap/README.md)
