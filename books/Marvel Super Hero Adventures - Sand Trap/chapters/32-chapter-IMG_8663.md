@@ -9,19 +9,6 @@
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-playground had a sand floor, too, was not good news.
-
-"The Sandman could be hiding anywhere," Spider-Man said. "Under the tire swing. Beneath the slide. We have to get these kids out of here. And I know just how to do it." He winked at his companion. "Watch and learn."
-
-Spider-Man cleared his throat. He cupped his hands around his mouth. He hollered, "ICE CREAM!"
-
-Everyone stopped playing. The children glared. Their parents pouted. No one moved.
-
-"Geesh," Spidey said. "Not a big ice cream crowd."
-
-"That was a great try, Spider-Man,"
-
 ## 中文演绎
 地方也铺满了沙子，这可不是什么好消息。
 
@@ -34,6 +21,19 @@ Everyone stopped playing. The children glared. Their parents pouted. No one move
 "天哪，"小蜘蛛说，"看来这里不是很吃冰淇淋这一套。"
 
 "这次尝试已经很棒了，蜘蛛侠，"
+
+## 英文原文朗读
+playground had a sand floor, too, was not good news.
+
+"The Sandman could be hiding anywhere," Spider-Man said. "Under the tire swing. Beneath the slide. We have to get these kids out of here. And I know just how to do it." He winked at his companion. "Watch and learn."
+
+Spider-Man cleared his throat. He cupped his hands around his mouth. He hollered, "ICE CREAM!"
+
+Everyone stopped playing. The children glared. Their parents pouted. No one moved.
+
+"Geesh," Spidey said. "Not a big ice cream crowd."
+
+"That was a great try, Spider-Man,"
 
 </td>
 </tr>

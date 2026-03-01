@@ -9,19 +9,19 @@
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-An Early Chapter Book
-MARVEL
-SUPER HERO ADVENTURES
-Sand Trap!
-By Mackenzie Cadenhead & Sean Ryan
-
 ## 中文演绎
 一本早期章节书
 MARVEL
 超级英雄历险
 《Sand Trap!》
 作者：Mackenzie Cadenhead 与 Sean Ryan
+
+## 英文原文朗读
+An Early Chapter Book
+MARVEL
+SUPER HERO ADVENTURES
+Sand Trap!
+By Mackenzie Cadenhead & Sean Ryan
 
 </td>
 </tr>

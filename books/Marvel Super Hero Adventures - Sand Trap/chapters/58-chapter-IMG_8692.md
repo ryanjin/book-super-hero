@@ -9,17 +9,6 @@
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-"Everywhere," the policeman sighed.
-
-"Thanks for the help, Spider-Man and Squirrel Girl," Officer Stanley said. She loaded the bagged-and-tagged Sandman into the police van.
-
-"No thanks necessary," Spidey replied. "We don't do it for the applause. No need for a sand-ing ovation."
-
-Just then the children from the playground came running toward Spider-Man and Squirrel Girl. They were cheering. They were clapping. They were shouting for joy.
-
-"Well, maybe just this once," Spidey said. He held out his arms, prepared for high fives. Squirrel Girl ran up to them, and zoomed right past them to the ice cream truck that had finally arrived.
-
 ## 中文演绎
 "哪儿都是，"那位警察叹气道。
 
@@ -30,6 +19,17 @@ Just then the children from the playground came running toward Spider-Man and Sq
 就在这时，游乐场里的孩子们朝蜘蛛侠和松鼠妹跑了过来。他们欢呼着、鼓掌着、兴奋地叫喊着。
 
 "嗯，也许就这一次吧，"小蜘蛛说。他张开双臂，准备和大家击掌。松鼠妹冲到孩子们跟前，却嗖地一下直接从他们身边掠过，奔向那辆终于到来的冰淇淋车。
+
+## 英文原文朗读
+"Everywhere," the policeman sighed.
+
+"Thanks for the help, Spider-Man and Squirrel Girl," Officer Stanley said. She loaded the bagged-and-tagged Sandman into the police van.
+
+"No thanks necessary," Spidey replied. "We don't do it for the applause. No need for a sand-ing ovation."
+
+Just then the children from the playground came running toward Spider-Man and Squirrel Girl. They were cheering. They were clapping. They were shouting for joy.
+
+"Well, maybe just this once," Spidey said. He held out his arms, prepared for high fives. Squirrel Girl ran up to them, and zoomed right past them to the ice cream truck that had finally arrived.
 
 </td>
 </tr>

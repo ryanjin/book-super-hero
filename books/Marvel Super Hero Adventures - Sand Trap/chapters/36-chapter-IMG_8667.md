@@ -9,17 +9,6 @@
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-Chapter 7
-
-Aunt May placed a small spoon on top of a neatly folded napkin. She centered a teacup in its saucer. She laid eight cookies on a fancy silver tray. Her tea party was nearly ready.
-
-All that was missing was the milk.
-
-"Oh, I do hope Peter will be back from the store soon," she said to herself. "Anna and her niece will be here any minute."
-
-Having nothing to do but wait, Aunt May decided to distract herself.
-
 ## 中文演绎
 第 7 章
 
@@ -30,6 +19,17 @@ Having nothing to do but wait, Aunt May decided to distract herself.
 "唉，真希望彼得快点从商店回来，"她自言自语道，"安娜和她的外甥女随时都会到。"
 
 除了等待也没别的事可做，梅姨决定分散一下自己的注意力。
+
+## 英文原文朗读
+Chapter 7
+
+Aunt May placed a small spoon on top of a neatly folded napkin. She centered a teacup in its saucer. She laid eight cookies on a fancy silver tray. Her tea party was nearly ready.
+
+All that was missing was the milk.
+
+"Oh, I do hope Peter will be back from the store soon," she said to herself. "Anna and her niece will be here any minute."
+
+Having nothing to do but wait, Aunt May decided to distract herself.
 
 </td>
 </tr>

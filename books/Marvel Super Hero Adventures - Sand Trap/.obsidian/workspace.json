@@ -11,12 +11,14 @@
             "id": "541f0f5c70a8f32b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Marvel Super Hero Adventures - Sand Trap - 中文阅读版(压缩).pdf"
+                "file": "chapters/27-chapter-IMG_8658.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Marvel Super Hero Adventures - Sand Trap - 中文阅读版(压缩)"
+              "icon": "lucide-file",
+              "title": "27-chapter-IMG_8658"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marvel Super Hero Adventures - Sand Trap - 中文阅读版(压缩).pdf",
+                "file": "chapters/27-chapter-IMG_8658.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Marvel Super Hero Adventures - Sand Trap - 中文阅读版(压缩) 的反向链接列表"
+              "title": "27-chapter-IMG_8658 的反向链接列表"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marvel Super Hero Adventures - Sand Trap - 中文阅读版(压缩).pdf",
+                "file": "chapters/27-chapter-IMG_8658.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Marvel Super Hero Adventures - Sand Trap - 中文阅读版(压缩) 的出链列表"
+              "title": "27-chapter-IMG_8658 的出链列表"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marvel Super Hero Adventures - Sand Trap - 中文阅读版(压缩).pdf",
+                "file": "chapters/27-chapter-IMG_8658.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Marvel Super Hero Adventures - Sand Trap - 中文阅读版(压缩) 的大纲"
+              "title": "27-chapter-IMG_8658 的大纲"
             }
           }
         ]
@@ -183,12 +185,12 @@
   },
   "active": "541f0f5c70a8f32b",
   "lastOpenFiles": [
+    "Marvel Super Hero Adventures - Sand Trap - 中文阅读版(压缩).pdf",
     "book-chapters/chapter-08.md",
     "book-chapters/chapter-06.md",
     "chapters/03-chapter-IMG_8633.md",
     "chapters/05-chapter-IMG_8635.md",
     "book-chapters/chapter-03.md",
-    "Marvel Super Hero Adventures - Sand Trap - 中文阅读版(压缩).pdf",
     "Marvel Super Hero Adventures - Sand Trap - 中文阅读版.pdf",
     "book-chapters/chapter-02.md",
     "chapters/02-chapter-IMG_8632.md",

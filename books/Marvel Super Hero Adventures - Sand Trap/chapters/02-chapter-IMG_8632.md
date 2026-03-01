@@ -9,17 +9,6 @@
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-MARVEL SUPER HERO ADVENTURES
-Sand Trap!
-With Spider-Man,
-Squirrel Girl, and the Sandman
-
-By Mackenzie Cadenhead
-& Sean Ryan
-
-Illustrated by Dario Brizuela
-
 ## 中文演绎
 MARVEL 超级英雄历险
 《Sand Trap!》
@@ -30,6 +19,17 @@ MARVEL 超级英雄历险
 与 Sean Ryan
 
 插画：Dario Brizuela
+
+## 英文原文朗读
+MARVEL SUPER HERO ADVENTURES
+Sand Trap!
+With Spider-Man,
+Squirrel Girl, and the Sandman
+
+By Mackenzie Cadenhead
+& Sean Ryan
+
+Illustrated by Dario Brizuela
 
 </td>
 </tr>

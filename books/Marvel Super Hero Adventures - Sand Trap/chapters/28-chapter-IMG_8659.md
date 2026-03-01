@@ -9,21 +9,6 @@
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-She pointed to a dozen police officers. They were sifting through the sand that covered Ninety-sixth Street. She held up a shovel. "Back to work," she said.
-
-Officer Ditko sighed. He picked up a comb and fell to his knees. "If you see something, say something, okay, Spidey?"
-
-"Will do, Officer," Spider-Man said. "Don't worry. This guy doesn't sand a chance."
-
-Officer Ditko whimpered. "I'm too old for this"
-
-"Psst!"
-
-Spider-Man looked behind him. He looked beside him. He looked below him. He was sure he heard something, but he saw nothing.
-
-"Psst!" He heard it again.
-
 ## 中文演绎
 她指了指十来个警察。他们正筛查覆盖了第九十六街的沙子。她举起一把铲子。"继续干活，"她说。
 
@@ -38,6 +23,21 @@ Spider-Man looked behind him. He looked beside him. He looked below him. He was 
 蜘蛛侠回头看，往身旁看，又往下面看。他确信自己听到了什么，可是什么也没看见。
 
 "嘘！"他又听见了一次。
+
+## 英文原文朗读
+She pointed to a dozen police officers. They were sifting through the sand that covered Ninety-sixth Street. She held up a shovel. "Back to work," she said.
+
+Officer Ditko sighed. He picked up a comb and fell to his knees. "If you see something, say something, okay, Spidey?"
+
+"Will do, Officer," Spider-Man said. "Don't worry. This guy doesn't sand a chance."
+
+Officer Ditko whimpered. "I'm too old for this"
+
+"Psst!"
+
+Spider-Man looked behind him. He looked beside him. He looked below him. He was sure he heard something, but he saw nothing.
+
+"Psst!" He heard it again.
 
 </td>
 </tr>

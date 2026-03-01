@@ -9,11 +9,11 @@
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-"Ouch, ouch, ouch!" the Sandman cried. The squirrels pelted him with acorn after acorn. The attack was working. The Sandman
-
 ## 中文演绎
 "哎哟，哎哟，哎哟！"沙人惨叫起来。松鼠们一颗接一颗地用橡果砸他。攻击奏效了。沙人
+
+## 英文原文朗读
+"Ouch, ouch, ouch!" the Sandman cried. The squirrels pelted him with acorn after acorn. The attack was working. The Sandman
 
 </td>
 </tr>

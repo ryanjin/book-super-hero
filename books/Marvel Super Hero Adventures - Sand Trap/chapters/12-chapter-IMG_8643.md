@@ -9,17 +9,6 @@
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-Chapter 2
-
-"I'll be back with the milk before you know it," Peter said. He stepped onto the sidewalk outside their house in Queens, New York.
-
-"Just to the store, Peter," Aunt May warned from the front door. "Please try not to be late for our guests."
-
-Peter gave his aunt a thumbs-up. He turned the corner and was gone.
-
-It was a bright spring afternoon. Perfect weather for going to the grocery store. Or . . . for sailing through the air on a spiderweb!
-
 ## 中文演绎
 第 2 章
 
@@ -30,6 +19,17 @@ It was a bright spring afternoon. Perfect weather for going to the grocery store
 彼得冲姨妈竖起大拇指，拐过街角就不见了。
 
 那是个明亮的春日下午，天气好得很，正适合去杂货店。当然……也很适合踩着蛛丝在空中飞荡！
+
+## 英文原文朗读
+Chapter 2
+
+"I'll be back with the milk before you know it," Peter said. He stepped onto the sidewalk outside their house in Queens, New York.
+
+"Just to the store, Peter," Aunt May warned from the front door. "Please try not to be late for our guests."
+
+Peter gave his aunt a thumbs-up. He turned the corner and was gone.
+
+It was a bright spring afternoon. Perfect weather for going to the grocery store. Or . . . for sailing through the air on a spiderweb!
 
 </td>
 </tr>

@@ -9,17 +9,6 @@
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-Chapter 1
-
-Peter Parker did not hear his Aunt May talking. He had been pouring the last of the milk into his cereal bowl when the morning news caught his attention.
-
-". . . commotion at the City Bank on Ninety-sixth Street and Columbus Avenue. Police cars are at the scene."
-
-"Peter," Aunt May said again. She shook his shoulder. "Did you hear a word I just said?"
-
-"Sorry, Aunt May," Peter replied.
-
 ## 中文演绎
 第 1 章
 
@@ -30,6 +19,17 @@ Peter Parker did not hear his Aunt May talking. He had been pouring the last of 
 "彼得，"梅姨又叫了一遍。她摇了摇他的肩膀，"我刚才说的话，你听见一个字了吗？"
 
 "对不起，梅姨。"彼得回答。
+
+## 英文原文朗读
+Chapter 1
+
+Peter Parker did not hear his Aunt May talking. He had been pouring the last of the milk into his cereal bowl when the morning news caught his attention.
+
+". . . commotion at the City Bank on Ninety-sixth Street and Columbus Avenue. Police cars are at the scene."
+
+"Peter," Aunt May said again. She shook his shoulder. "Did you hear a word I just said?"
+
+"Sorry, Aunt May," Peter replied.
 
 </td>
 </tr>
