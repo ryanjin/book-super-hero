@@ -1,7 +1,5 @@
 # Chapter 08
-> 包含页面：39, 40, 41, 42, 43, 44, 45, 46
 
-## Page 39 (IMG_8670)
 
 <table>
 <tr>
@@ -12,13 +10,6 @@
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-Chapter 8
-
-"The lady only said to give the dog a walk," the Sandman whined. "She never said anything about bringing him back. I don't think I should've been fired for that." The Sandman chased Squirrel Girl up a ladder. She shot down a tunnel slide. He followed.
-
-"And that gave you the right to rob the bank, why?" Squirrel Girl asked. "Seriously, dude. You absolutely deserved to be fired from that job. Poor puppy!" Squirrel Girl tumbled out of the
-
 ## 中文演绎
 第 8 章
 
@@ -26,11 +17,17 @@ Chapter 8
 
 "所以这就给了你抢银行的理由？为什么？"松鼠妹问，"说真的，哥们，你那份工作被炒一点都不冤。可怜的小狗！"松鼠妹从
 
+## 英文原文朗读
+Chapter 8
+
+"The lady only said to give the dog a walk," the Sandman whined. "She never said anything about bringing him back. I don't think I should've been fired for that." The Sandman chased Squirrel Girl up a ladder. She shot down a tunnel slide. He followed.
+
+"And that gave you the right to rob the bank, why?" Squirrel Girl asked. "Seriously, dude. You absolutely deserved to be fired from that job. Poor puppy!" Squirrel Girl tumbled out of the
+
 </td>
 </tr>
 </table>
 
-## Page 40 (IMG_8671)
 
 <table>
 <tr>
@@ -41,13 +38,6 @@ Chapter 8
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-tunnel and ducked. Thousands of grains of sand came flying out after her. They landed in a heap by the swing set where Spider-Man was waiting.
-
-"Excuses, excuses," Spidey said. "What's next? Someone hired you to watch their kids and then fired you for no good reason?"
-
-The pile of sand pulled together. It formed into the Sandman. He faced
-
 ## 中文演绎
 （承接上一页）
 管道滑梯里钻了出来，低头一闪。成千上万粒沙子跟着她飞涌而出，最后堆成一团，落在秋千架旁边，而蜘蛛侠早就在那儿等着了。
@@ -56,11 +46,17 @@ The pile of sand pulled together. It formed into the Sandman. He faced
 
 那堆沙子迅速聚拢，重新组成了沙人的模样。他转身面对着
 
+## 英文原文朗读
+tunnel and ducked. Thousands of grains of sand came flying out after her. They landed in a heap by the swing set where Spider-Man was waiting.
+
+"Excuses, excuses," Spidey said. "What's next? Someone hired you to watch their kids and then fired you for no good reason?"
+
+The pile of sand pulled together. It formed into the Sandman. He faced
+
 </td>
 </tr>
 </table>
 
-## Page 41 (IMG_8673)
 
 <table>
 <tr>
@@ -70,17 +66,6 @@ The pile of sand pulled together. It formed into the Sandman. He faced
 
 </td>
 <td width="48%" valign="top">
-
-## 英文原文朗读
-Spider-Man and shrugged. "They wouldn't even hire me. If I'm not supposed to do it, then don't call it baby sitting," he said.
-
-Spider-Man gasped. "Now that's just wrong."
-
-The Sandman lunged at the wall-crawler. Spidey jumped onto a tire swing.
-
-"You know what they say, don't you?" Spider-Man asked. He swung forward. He was about to hit the Sandman when the thief turned himself to dust. Spider-Man went straight through him.
-
-"Don't stand in front of swings or you might get hit," the Sandman said as he returned to solid form. He clenched his fists. He waited for Spider-Man to
 
 ## 中文演绎
 （承接上一页）
@@ -94,11 +79,21 @@ The Sandman lunged at the wall-crawler. Spidey jumped onto a tire swing.
 
 "别站在秋千前面，不然会被撞到，"沙人重新凝成实体时说道。他攥紧拳头，等着蜘蛛侠
 
+## 英文原文朗读
+Spider-Man and shrugged. "They wouldn't even hire me. If I'm not supposed to do it, then don't call it baby sitting," he said.
+
+Spider-Man gasped. "Now that's just wrong."
+
+The Sandman lunged at the wall-crawler. Spidey jumped onto a tire swing.
+
+"You know what they say, don't you?" Spider-Man asked. He swung forward. He was about to hit the Sandman when the thief turned himself to dust. Spider-Man went straight through him.
+
+"Don't stand in front of swings or you might get hit," the Sandman said as he returned to solid form. He clenched his fists. He waited for Spider-Man to
+
 </td>
 </tr>
 </table>
 
-## Page 42 (IMG_8674)
 
 <table>
 <tr>
@@ -108,17 +103,6 @@ The Sandman lunged at the wall-crawler. Spidey jumped onto a tire swing.
 
 </td>
 <td width="48%" valign="top">
-
-## 英文原文朗读
-swing backward. But the swing and Spidey never came.
-
-"I was thinking, what goes around comes around," Spider-Man said. He had shot his webs onto the frame of the swing set, and was squatting at the top. Now he pulled himself all the way around. He hit the Sandman from behind.
-
-"Oof!" The felon went flying onto the monkey bars.
-
-"No fair," the Sandman cried. "I wasn't expecting that."
-
-"So you want us to tell you when we're going to fight you?" Squirrel Girl asked. She was perched atop the monkey bars. The Sandman looked up at her.
 
 ## 中文演绎
 （承接上一页）
@@ -132,11 +116,21 @@ swing backward. But the swing and Spidey never came.
 
 "所以你是想让我们在动手前先通知你一声？"松鼠妹问。她正蹲在猴架顶上。沙人抬头看着她。
 
+## 英文原文朗读
+swing backward. But the swing and Spidey never came.
+
+"I was thinking, what goes around comes around," Spider-Man said. He had shot his webs onto the frame of the swing set, and was squatting at the top. Now he pulled himself all the way around. He hit the Sandman from behind.
+
+"Oof!" The felon went flying onto the monkey bars.
+
+"No fair," the Sandman cried. "I wasn't expecting that."
+
+"So you want us to tell you when we're going to fight you?" Squirrel Girl asked. She was perched atop the monkey bars. The Sandman looked up at her.
+
 </td>
 </tr>
 </table>
 
-## Page 43 (IMG_8675)
 
 <table>
 <tr>
@@ -147,13 +141,6 @@ swing backward. But the swing and Spidey never came.
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-"Why, yes," he said.
-
-"Okay." Squirrel Girl smiled. "Incoming!"
-
-At Squirrel Girl's call, nearly a dozen squirrels climbed the monkey bars to meet her. Their cheeks were full. They were stuffed with acorns. They faced the Sandman and blew.
-
 ## 中文演绎
 "对啊，没错，"他说。
 
@@ -161,11 +148,17 @@ At Squirrel Girl's call, nearly a dozen squirrels climbed the monkey bars to mee
 
 随着松鼠妹一声招呼，将近一打松鼠顺着猴架爬了上来。它们脸颊鼓鼓的，全塞满了橡果。它们一齐朝着沙人猛吹出去。
 
+## 英文原文朗读
+"Why, yes," he said.
+
+"Okay." Squirrel Girl smiled. "Incoming!"
+
+At Squirrel Girl's call, nearly a dozen squirrels climbed the monkey bars to meet her. Their cheeks were full. They were stuffed with acorns. They faced the Sandman and blew.
+
 </td>
 </tr>
 </table>
 
-## Page 44 (IMG_8677)
 
 <table>
 <tr>
@@ -176,17 +169,16 @@ At Squirrel Girl's call, nearly a dozen squirrels climbed the monkey bars to mee
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-"Ouch, ouch, ouch!" the Sandman cried. The squirrels pelted him with acorn after acorn. The attack was working. The Sandman
-
 ## 中文演绎
 "哎哟，哎哟，哎哟！"沙人惨叫起来。松鼠们一颗接一颗地用橡果砸他。攻击奏效了。沙人
+
+## 英文原文朗读
+"Ouch, ouch, ouch!" the Sandman cried. The squirrels pelted him with acorn after acorn. The attack was working. The Sandman
 
 </td>
 </tr>
 </table>
 
-## Page 45 (IMG_8678)
 
 <table>
 <tr>
@@ -197,18 +189,17 @@ At Squirrel Girl's call, nearly a dozen squirrels climbed the monkey bars to mee
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-stumbled backward. Spider-Man was waiting behind him. He held out a huge net made of spiderwebs to contain the crook.
-
 ## 中文演绎
 （承接上一页）
 踉跄着往后退去。蜘蛛侠早已在他身后等着，张开一张巨大的蛛网大网，要把这个坏蛋困住。
+
+## 英文原文朗读
+stumbled backward. Spider-Man was waiting behind him. He held out a huge net made of spiderwebs to contain the crook.
 
 </td>
 </tr>
 </table>
 
-## Page 46 (IMG_8679)
 
 <table>
 <tr>
@@ -219,15 +210,15 @@ stumbled backward. Spider-Man was waiting behind him. He held out a huge net mad
 </td>
 <td width="48%" valign="top">
 
-## 英文原文朗读
-Squirrel Girl smiled at Spidey. The Sandman saw her look. Before Spidey could catch him, the Sandman spun around and walloped the web-slinger. Wham!
-
-Spider-Man went flying. He landed at the foot of a water fountain, where a little boy was filling up water balloons. A moment later, Squirrel Girl landed there, too.
-
 ## 中文演绎
 松鼠妹冲小蜘蛛笑了笑。沙人看见了她的眼神。还没等小蜘蛛把他困住，沙人猛地转身，一拳把这个吐丝英雄打飞了。砰！
 
 蜘蛛侠整个人飞了出去，落在一座饮水喷泉旁。那里有个小男孩正在灌水球。片刻后，松鼠妹也落到了那儿。
+
+## 英文原文朗读
+Squirrel Girl smiled at Spidey. The Sandman saw her look. Before Spidey could catch him, the Sandman spun around and walloped the web-slinger. Wham!
+
+Spider-Man went flying. He landed at the foot of a water fountain, where a little boy was filling up water balloons. A moment later, Squirrel Girl landed there, too.
 
 </td>
 </tr>
