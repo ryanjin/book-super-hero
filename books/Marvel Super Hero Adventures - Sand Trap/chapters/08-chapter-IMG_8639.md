@@ -9,26 +9,15 @@
 </td>
 <td width="48%" valign="top">
 
-## 🖼️ 场景理解
-a book with a cartoon character and a cartoon character
+## 英文原文朗读
+He looked away from the TV. Aunt May’s arms were crossed. Uh-oh. Aunt May was the kindest person Peter knew. She had raised him since he was a little boy. She loved him as much as any parent could. Aunt May was friendly to everyone. And she always threw the ball back when the neighborhood kids lost it over her fence. When Aunt May wasn’t smiling, something was wrong.
 
-## 🎙️ 朗读稿
-### 🌆 剧情推进页（30-45秒）
-旁白（中速）：
-“故事继续向前，线索在这一页慢慢清晰。”
+## 中文演绎
+彼得赶紧把视线从电视上移开。梅姨双手抱在胸前——糟了。
 
-故事化朗读：
-“英雄们观察现场，迅速判断局势。
-看似平静的画面背后，其实藏着新的风险。
-他们决定继续追踪，绝不让敌人有可乘之机。”
+在彼得心里，梅姨一直是最温柔的人。她从他很小的时候就照顾他，像父母一样深爱着他。她对每个人都很友善，邻居小孩把球扔过围栏，她也总会把球笑着扔回去。
 
-角色小台词（可选）：
-“先别急，我们已经快接近真相了。”
-
-## 🎧 朗读提示
-- 情绪：稳健推进
-- 语速：中速
-- 停顿：转折词前后短停顿
+可今天，梅姨没有笑。彼得知道：只要梅姨不笑，就一定有哪里不对劲。
 
 </td>
 </tr>
