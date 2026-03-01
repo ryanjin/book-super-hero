@@ -17,7 +17,6 @@ with the milk and he wouldn't have to feel so guilty. Then Peter had an idea. Wh
 Peter stopped talking. His words reminded him of ones he had heard earlier. They sounded like the words the Sandman had used to excuse his bad behavior. Peter went to Aunt May and took her hands.
 
 ## 中文演绎
-（承接上一页）
 带着牛奶回来，他也就不用这么内疚了。接着彼得忽然冒出一个念头。虽然他不能告诉梅姨自己是超级英雄，但他至少可以告诉她，自己迟到并不是他的错！
 
 "你知道吗，"彼得说，"其实我本来会立刻带着牛奶回来的，可我碰见了一个需要我帮忙的朋友。我没法拒绝，因为她真的陷在一个满是沙子的，我是说，一个很棘手的麻烦里。可就在我以为事情已经解决的时候，情况却变得更大条了！我怎么会知道事情会变成那样呢？"

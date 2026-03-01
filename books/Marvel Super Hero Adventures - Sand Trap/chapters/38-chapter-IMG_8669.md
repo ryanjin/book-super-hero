@@ -17,7 +17,6 @@ also delighted to see he had a friend with him to help.
 Aunt May grabbed a cookie. "Get him, Spider-Man," she said as she took a bite.
 
 ## 中文演绎
-（承接上一页）
 很高兴看到他身边还有个朋友帮忙。
 
 "……最新消息，松鼠妹也加入了小蜘蛛的战斗。这对厉害搭档会把沙子狠狠干趴下，还是会在沙地里划出界线？无论如何，有一点可以肯定：这场战斗绝不会轻松。"

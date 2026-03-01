@@ -15,7 +15,6 @@ ice cream that was not there, the Sandman, and his stolen money, slipped into th
 Two suspicious squirrels sat on a nearby oak tree. They saw everything.
 
 ## 中文演绎
-（承接上一页）
 根本不存在的冰淇淋时，沙人和他偷来的钱已经悄无声息地滑进了沙坑里。至少他自己是这么以为的。
 
 附近一棵橡树上蹲着两只满脸怀疑的松鼠。它们把一切都看见了。

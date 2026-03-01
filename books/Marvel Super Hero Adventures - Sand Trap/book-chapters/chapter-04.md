@@ -43,7 +43,6 @@ Chapter 4
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 我甚至数过自己脸颊里最多能塞下多少颗橡果。害我都开始怀疑人生了。你说是不是？"
 
 蒂比趾耸了耸肩。
@@ -120,7 +119,6 @@ Having found no ice cream, the children had returned to the playground where the
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 这时，她看见了一样让自己露出笑容的东西。一个倒挂在树上、吊在蛛丝上的家伙正悬在那里，那正是蜘蛛侠。他正在和两位警官说话。
 
 "蒂比趾，去叫些松鼠朋友来，"松鼠妹说，"我这儿有只小虫子要抓。"

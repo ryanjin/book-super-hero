@@ -21,7 +21,6 @@ By Mackenzie Cadenhead
 Illustrated by Dario Brizuela
 
 ## 中文演绎
-（承接上一页）
 MARVEL 超级英雄历险
 《Sand Trap!》
 与蜘蛛侠、

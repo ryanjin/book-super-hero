@@ -99,7 +99,6 @@ The first water balloon hit the Sandman on the foot. The second one landed on hi
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 第六个和第七个紧跟着也砸了上去。水球里的水把沙人下半身变成了烂泥。
 
 "我，我这是怎么了？"沙人惊叫道，"我动不了了！"

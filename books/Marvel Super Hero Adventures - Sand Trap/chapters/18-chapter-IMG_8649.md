@@ -17,7 +17,6 @@ Officer Ditko spat sand from his mouth. He looked at his partner. "You had to as
 As the police officers searched the sand for their suspect, the Sandman ran into Central Park.
 
 ## 中文演绎
-（承接上一页）
 警车的轮子根本动不了。他们被困住了。沙人逃掉了！
 
 迪特科警官把嘴里的沙子吐了出来，看向搭档。"都怪你乌鸦嘴，"他说。

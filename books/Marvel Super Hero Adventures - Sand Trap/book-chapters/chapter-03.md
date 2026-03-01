@@ -59,7 +59,6 @@ As if in answer to her question, an enormous wave of sand crashed down in front 
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 警车的轮子根本动不了。他们被困住了。沙人逃掉了！
 
 迪特科警官把嘴里的沙子吐了出来，看向搭档。"都怪你乌鸦嘴，"他说。
@@ -150,7 +149,6 @@ The children cheered. Their parents applauded. Everyone ran from the sandbox in 
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 根本不存在的冰淇淋时，沙人和他偷来的钱已经悄无声息地滑进了沙坑里。至少他自己是这么以为的。
 
 附近一棵橡树上蹲着两只满脸怀疑的松鼠。它们把一切都看见了。

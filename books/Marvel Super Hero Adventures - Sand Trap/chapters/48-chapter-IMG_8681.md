@@ -17,7 +17,6 @@ So Phinn had decided to fill up every last one of his balloons with water. That 
 Eighteen of Phinn's nineteen balloons were filled and sitting in his red wagon. He was about to fill the
 
 ## 中文演绎
-（承接上一页）
 他的水球再砸中哪怕一个人，这些水球就会被全部没收。这是他妈妈下的最后通牒。
 
 所以，芬恩决定把自己剩下的每一个水球都先灌满水。这样等他拿这些水球把爸爸浇个透湿之后，就不会剩下任何一个给妈妈没收了。芬恩觉得自己简直是个天才。

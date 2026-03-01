@@ -39,7 +39,6 @@ Chapter 8
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 管道滑梯里钻了出来，低头一闪。成千上万粒沙子跟着她飞涌而出，最后堆成一团，落在秋千架旁边，而蜘蛛侠早就在那儿等着了。
 
 "借口，都是借口，"小蜘蛛说道，"接下来你是不是还要说，有人雇你看孩子，结果毫无理由地把你炒了？"
@@ -68,7 +67,6 @@ The pile of sand pulled together. It formed into the Sandman. He faced
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 蜘蛛侠，他耸了耸肩。"他们甚至都不会雇我。要是不想让我做，那就别把它叫作 babysitting，"他说。
 
 蜘蛛侠倒吸一口气。"这也太离谱了。"
@@ -105,7 +103,6 @@ The Sandman lunged at the wall-crawler. Spidey jumped onto a tire swing.
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 往后荡回来。可是秋千和小蜘蛛都没有出现。
 
 "我刚才在想，风水轮流转，"蜘蛛侠说道。他早已把蛛丝射在秋千架上方的横梁上，自己正蹲在顶端。这时他整个人沿着架子绕了一整圈，从背后狠狠撞上了沙人。
@@ -190,7 +187,6 @@ At Squirrel Girl's call, nearly a dozen squirrels climbed the monkey bars to mee
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 踉跄着往后退去。蜘蛛侠早已在他身后等着，张开一张巨大的蛛网大网，要把这个坏蛋困住。
 
 ## 英文原文朗读

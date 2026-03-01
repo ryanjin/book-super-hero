@@ -47,7 +47,6 @@ Spider-Man rubbed his temples. Just as Tippy-Toe had said, the Sandman had hidde
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 地方也铺满了沙子，这可不是什么好消息。
 
 "沙人可能藏在任何地方，"蜘蛛侠说，"轮胎秋千下面，滑梯底下。我们得先把这些孩子弄出去。而且我正好知道该怎么做。"他冲同伴眨了眨眼，"看好了，学着点。"
@@ -120,7 +119,6 @@ Hundreds of squirrels ran into the playground. They descended from the trees. Th
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 黑松鼠、红松鼠。中央公园里的所有松鼠，好像都响应松鼠妹的召唤赶来了。
 
 一只松鼠单独看起来很可爱，两只松鼠一起玩也挺有趣。可要是几百只松鼠排着阵形朝你冲来，那可就真是疯掉了。
@@ -149,7 +147,6 @@ The families fled to the nearby benches. The squirrels stood
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 警戒线般守在他们脚边。游乐场被清空了，而且真是一秒都不能再晚。
 
 一个巨大的身影从沙地里长了出来，居高临下地俯视着蜘蛛侠和松鼠妹。

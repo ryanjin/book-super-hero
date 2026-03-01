@@ -21,7 +21,6 @@ Peter Parker did not hear his Aunt May talking. He had been pouring the last of 
 "Sorry, Aunt May," Peter replied.
 
 ## 中文演绎
-（承接上一页）
 第 1 章
 
 彼得·帕克没有听见梅姨在说话。那时他正把最后一点牛奶倒进自己的麦片碗里，忽然早间新闻吸引了他的注意。

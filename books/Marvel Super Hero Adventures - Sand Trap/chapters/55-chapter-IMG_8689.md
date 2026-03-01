@@ -17,7 +17,6 @@ sixth, and seventh followed fast. And the water from the balloons turned the San
 "What's the matter, Sandy?" Spider-Man asked as the rest of the eighteen water balloons burst against the bad guy. "Or should I call you Stucky?"
 
 ## 中文演绎
-（承接上一页）
 第六个和第七个紧跟着也砸了上去。水球里的水把沙人下半身变成了烂泥。
 
 "我，我这是怎么了？"沙人惊叫道，"我动不了了！"

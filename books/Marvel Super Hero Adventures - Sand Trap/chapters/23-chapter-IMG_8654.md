@@ -17,7 +17,6 @@ Tippy-Toe shrugged.
 "Forty-seven, by the way." Squirrel Girl leaped from the bench to a nearby tree. "But enough about me," she said. "Tell me about you. Where did you last see this Sandman?"
 
 ## 中文演绎
-（承接上一页）
 我甚至数过自己脸颊里最多能塞下多少颗橡果。害我都开始怀疑人生了。你说是不是？"
 
 蒂比趾耸了耸肩。

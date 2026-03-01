@@ -21,7 +21,6 @@ The Sandman lunged at the wall-crawler. Spidey jumped onto a tire swing.
 "Don't stand in front of swings or you might get hit," the Sandman said as he returned to solid form. He clenched his fists. He waited for Spider-Man to
 
 ## 中文演绎
-（承接上一页）
 蜘蛛侠，他耸了耸肩。"他们甚至都不会雇我。要是不想让我做，那就别把它叫作 babysitting，"他说。
 
 蜘蛛侠倒吸一口气。"这也太离谱了。"

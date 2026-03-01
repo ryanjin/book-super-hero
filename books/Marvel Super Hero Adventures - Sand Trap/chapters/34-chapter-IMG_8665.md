@@ -17,7 +17,6 @@ Now, one squirrel on its own is cute. Two squirrels playing together can be ente
 The families fled to the nearby benches. The squirrels stood
 
 ## 中文演绎
-（承接上一页）
 黑松鼠、红松鼠。中央公园里的所有松鼠，好像都响应松鼠妹的召唤赶来了。
 
 一只松鼠单独看起来很可爱，两只松鼠一起玩也挺有趣。可要是几百只松鼠排着阵形朝你冲来，那可就真是疯掉了。

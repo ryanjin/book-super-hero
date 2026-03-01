@@ -15,7 +15,6 @@ Then she saw something that made her smile. Suspended from a spiderweb, hanging 
 "Tippy-Toe, gather some squirrel friends," Squirrel Girl said. "I've got a bug to catch."
 
 ## 中文演绎
-（承接上一页）
 这时，她看见了一样让自己露出笑容的东西。一个倒挂在树上、吊在蛛丝上的家伙正悬在那里，那正是蜘蛛侠。他正在和两位警官说话。
 
 "蒂比趾，去叫些松鼠朋友来，"松鼠妹说，"我这儿有只小虫子要抓。"

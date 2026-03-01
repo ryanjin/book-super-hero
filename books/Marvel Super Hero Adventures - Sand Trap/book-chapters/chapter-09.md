@@ -35,7 +35,6 @@ Phinneas Daniels had already had two warnings today. The first was after he drop
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 他的水球再砸中哪怕一个人，这些水球就会被全部没收。这是他妈妈下的最后通牒。
 
 所以，芬恩决定把自己剩下的每一个水球都先灌满水。这样等他拿这些水球把爸爸浇个透湿之后，就不会剩下任何一个给妈妈没收了。芬恩觉得自己简直是个天才。
@@ -64,7 +63,6 @@ Eighteen of Phinn's nineteen balloons were filled and sitting in his red wagon. 
 <td width="48%" valign="top">
 
 ## 中文演绎
-（承接上一页）
 一个时，大概有一百万只左右的松鼠突然冲进了游乐场。大多数在游乐场玩的人都跳上了长椅，有些还爬上了围栏。芬恩一下跳到饮水喷泉上。他不知道自己正好踩在喷泉的按钮上，也不知道自己正在让水慢慢流出来。起初，他被下面三只看起来很凶的松鼠吸引了注意。紧接着，他又忙着围观一场货真价实的超级英雄大战。
 
 然后蜘蛛侠和松鼠妹从空中飞来，落在芬恩身边。他惊讶得都没意识到蜘蛛侠正在跟他说话。
