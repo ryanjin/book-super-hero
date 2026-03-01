@@ -23,6 +23,7 @@ Designed by David Roe
 ISBN 978-1-368-01254-6
 
 ## 中文演绎
+（承接上一页）
 献词
 献给 Phinn - MC
 永远献给 Joanna - SR

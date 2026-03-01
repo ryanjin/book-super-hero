@@ -23,6 +23,7 @@ Everyone stopped playing. The children glared. Their parents pouted. No one move
 "That was a great try, Spider-Man,"
 
 ## 中文演绎
+（承接上一页）
 地方也铺满了沙子，这可不是什么好消息。
 
 "沙人可能藏在任何地方，"蜘蛛侠说，"轮胎秋千下面，滑梯底下。我们得先把这些孩子弄出去。而且我正好知道该怎么做。"他冲同伴眨了眨眼，"看好了，学着点。"

@@ -15,6 +15,7 @@ he should hang up his webs and leave crime fighting to the Avengers, the words o
 No matter what was happening in Peter Parker's world, Spider-Man would always answer a call for help!
 
 ## 中文演绎
+（承接上一页）
 自己是不是该收起蛛丝，把打击犯罪的事交给复仇者们时，已故本叔叔的话总会帮助他作出正确选择。"能力越大，责任越大，"本叔叔曾这样告诉他。
 
 无论彼得·帕克的生活里正发生什么事，蜘蛛侠总会回应求助的呼声！

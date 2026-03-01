@@ -13,6 +13,7 @@
 stumbled backward. Spider-Man was waiting behind him. He held out a huge net made of spiderwebs to contain the crook.
 
 ## 中文演绎
+（承接上一页）
 踉跄着往后退去。蜘蛛侠早已在他身后等着，张开一张巨大的蛛网大网，要把这个坏蛋困住。
 
 </td>

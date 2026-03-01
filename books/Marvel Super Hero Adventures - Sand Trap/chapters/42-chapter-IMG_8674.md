@@ -21,6 +21,7 @@ swing backward. But the swing and Spidey never came.
 "So you want us to tell you when we're going to fight you?" Squirrel Girl asked. She was perched atop the monkey bars. The Sandman looked up at her.
 
 ## 中文演绎
+（承接上一页）
 往后荡回来。可是秋千和小蜘蛛都没有出现。
 
 "我刚才在想，风水轮流转，"蜘蛛侠说道。他早已把蛛丝射在秋千架上方的横梁上，自己正蹲在顶端。这时他整个人沿着架子绕了一整圈，从背后狠狠撞上了沙人。

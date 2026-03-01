@@ -17,6 +17,7 @@ tunnel and ducked. Thousands of grains of sand came flying out after her. They l
 The pile of sand pulled together. It formed into the Sandman. He faced
 
 ## 中文演绎
+（承接上一页）
 管道滑梯里钻了出来，低头一闪。成千上万粒沙子跟着她飞涌而出，最后堆成一团，落在秋千架旁边，而蜘蛛侠早就在那儿等着了。
 
 "借口，都是借口，"小蜘蛛说道，"接下来你是不是还要说，有人雇你看孩子，结果毫无理由地把你炒了？"
